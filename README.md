@@ -4,10 +4,11 @@
 
 ---
 
-#### I'm an aspiring Full-Stack Software Engineer.
+#### I'm Full-Stack Prompt Engineer.
 
 ##### WORK EXPERIENCE
 
+- <img src="https://github.com/user-attachments/assets/4c822a4d-b167-4924-8150-573f01562463" width="20"/> [OKX](https://okx.com) - July 2025 - Present
 - <img src="https://github.com/k3ithloh/k3ithloh/assets/72653120/d9f6f528-24ca-4e4b-a4ee-c7d965923164" width="20"/> [J.P.Morgan](https://jpmorgan.com) - May 2024 - Aug 2024
 - <img src="https://github.com/k3ithloh/k3ithloh/assets/72653120/cee91c21-75f2-481a-8aab-e024ec3c6266" width="20"/> [Univers](https://univers.com/) - Jan 2024 - May 2024
 - <img src="https://github.com/k3ithloh/k3ithloh/assets/72653120/dbd71d35-8946-457d-8583-8648b8344680" width="20"/>  [GovTech Singapore](https://www.tech.gov.sg/) - May 2023 - Nov 2023
